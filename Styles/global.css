@@ -39,3 +39,18 @@ color: var(--brand-color-light);
 h1, h2, h3 {
   font: inherit; /* Herda a fonte do pai */
 }
+
+.container {
+  max-width: 1280px;
+  padding-inline: 32px;
+  margin-inline: auto;
+}
+
+/* utility-firts = Uma classe que irá fazer uma só coisa e aplico direto no css*/
+.grid {
+  display: grid;
+}
+
+.grid-flow-col {
+  grid-auto-flow: column;
+}

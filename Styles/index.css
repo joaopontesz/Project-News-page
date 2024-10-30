@@ -1,2 +1,4 @@
 /* Importa as configs do css */
 @import url(global.css);
+
+@import url(header.css);

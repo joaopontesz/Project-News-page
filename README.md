@@ -2,7 +2,8 @@
 
 Preview do projeto desenvolvido.
 
-![smartmockups_m2yimkf1](https://github.com/user-attachments/assets/e2379647-f68f-409e-95c8-7c51adb5e5aa)
+![Design sem nome](https://github.com/user-attachments/assets/58690705-35b1-4915-8286-07905339fe75)
+
 
 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:

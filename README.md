@@ -2,8 +2,7 @@
 
 Preview do projeto desenvolvido.
 
-![Design sem nome](https://github.com/user-attachments/assets/58690705-35b1-4915-8286-07905339fe75)
-
+![Design sem nome (1)](https://github.com/user-attachments/assets/4b991bf1-a64f-42b1-802b-b3ebbe1091f7)
 
 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
